@@ -196,7 +196,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{{{ exitSouthURL }}}"
+                 "value":"conference.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2345,7 +2345,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/miro.com\/welcomeonboard\/SXZ3QXVJVHQ2WEhOa1JCSDNBZlFKUW53cW1WaUVKZUxDZEpjb1o1ZnV1MHA5QktpVFJlZ1N3d1prSHpYN3Fha3wzNDU4NzY0NTI0NTMyMjY2NTE4?share_link_id=763261115873"
+                 "value":"https:\/\/miro.com\/app\/board\/uXjVO3HAHLE=\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2702,7 +2702,7 @@
          "name":"aboveFurnitures",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":64,
          "x":0,
          "y":0
@@ -2767,7 +2767,7 @@
                  "value":"needHelp"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":64,
          "x":0,
          "y":0
