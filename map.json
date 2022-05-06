@@ -2702,7 +2702,7 @@
          "name":"aboveFurnitures",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -2767,7 +2767,7 @@
                  "value":"needHelp"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
