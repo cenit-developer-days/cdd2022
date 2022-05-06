@@ -196,7 +196,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/cenit-developer-days.github.io\/cdd2022\/conference.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/cenit-ag\/cenit-ag\/conference"
                 }],
          "type":"tilelayer",
          "visible":true,
