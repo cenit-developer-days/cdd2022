@@ -2345,11 +2345,6 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"true"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
                  "value":"https:\/\/miro.com\/welcomeonboard\/SXZ3QXVJVHQ2WEhOa1JCSDNBZlFKUW53cW1WaUVKZUxDZEpjb1o1ZnV1MHA5QktpVFJlZ1N3d1prSHpYN3Fha3wzNDU4NzY0NTI0NTMyMjY2NTE4?share_link_id=763261115873"
                 }],
          "type":"tilelayer",
