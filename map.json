@@ -196,7 +196,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"conference.json"
+                 "value":"developer-conference-2022\/conference.json"
                 }],
          "type":"tilelayer",
          "visible":true,
