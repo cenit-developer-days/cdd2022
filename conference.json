@@ -27,43 +27,20 @@
          "id":1,
          "name":"StageJitsi",
          "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":30,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":4,
-         "name":"Stage",
-         "objects":[
-                {
-                 "height":174,
-                 "id":7,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"lounge"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":686,
-                 "x":139,
-                 "y":458
-                }],
-         "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"forumcdd2022"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
-         "type":"objectgroup",
+         "type":"tilelayer",
          "visible":true,
+         "width":30,
          "x":0,
          "y":0
         }, 
