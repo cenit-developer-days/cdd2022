@@ -34,6 +34,11 @@
                  "value":"forumcdd2022"
                 }, 
                 {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -73,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCz6h1wud76ZR9uBNsMOOpwA"
+                 "value":"https:\/\/youtu.be\/5fnCwIy7Aus"
                 }, 
                 {
                  "name":"openWebsitePolicy",
