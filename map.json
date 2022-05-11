@@ -2964,7 +2964,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChromaticCommons"
+                         "value":"Disco"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -2979,7 +2979,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Chromatic Commons"
+                         "value":"Disco"
                         }],
                  "type":"tilelayer",
                  "visible":true,
